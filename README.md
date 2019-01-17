@@ -1,4 +1,4 @@
-# Data Visualization of Earthquake Activity 
+# Interactive Data Visualization
 
 ![Screenshot](https://github.com/nickkunz/earthquakes/blob/master/images/earthquakes_sample_img.gif)
 
